@@ -1,1 +1,6 @@
-# GINGA.github.io
+## GINGA: Humanoid Sports Motion Dataset
+
+This repository contains the source code for the GINGA paper.
+Built with HTML and CSS, hosted on GitHub Pages.
+
+---> https://GINGA.github.io/
